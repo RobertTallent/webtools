@@ -1,0 +1,6 @@
+#Ignore unfinished utilities
+lastpage.py
+table_grab.py
+
+#Ignore __pycache__
+__pycache__/
